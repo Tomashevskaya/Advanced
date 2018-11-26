@@ -23,7 +23,6 @@ namespace OnlineShop
         public override void Display()
         {
             Console.WriteLine("Display client's statistic: \n {0}, {1} ", Name, points);
-
         }
     }
 }
